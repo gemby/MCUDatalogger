@@ -2,8 +2,12 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid 7724fa4a-e87e-4e24-9bef-a23a7b16e103)
+	(uuid "7724fa4a-e87e-4e24-9bef-a23a7b16e103")
 	(paper "A4")
+	(title_block
+		(title "${project_name}")
+		(date "2026-06-19")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
