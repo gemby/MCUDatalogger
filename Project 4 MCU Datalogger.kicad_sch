@@ -4355,6 +4355,48 @@
 			)
 		)
 	)
+	(sheet
+		(at 107.95 127)
+		(size 30.48 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3456fcaf-f697-4d7c-a9be-2ebce55a676a")
+		(property "Sheetname" "Conectors"
+			(at 107.95 126.2884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "conectors.kicad_sch"
+			(at 107.95 144.0946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Project 4 MCU Datalogger"
+				(path "/7724fa4a-e87e-4e24-9bef-a23a7b16e103"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
